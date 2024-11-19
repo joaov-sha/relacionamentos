@@ -1,0 +1,5 @@
+spring:
+    data:
+        mongodb:
+            uri: mongodb+srv://joaolemes:yYNeX8nBgvlI4DgN@cluster0.345k5.mongodb.net/
+            database: relacionamentos
